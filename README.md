@@ -2,7 +2,7 @@
 Gerencie sua agenda de contatos onde você quiser. Use o Contact List!
 
 
-Funcionalidades
+#Funcionalidades
 
 Cadastro de usuários
 Recuperação de senha via email
