@@ -1,24 +1,15 @@
-# README
+# Contact List
+Gerencie sua agenda de contatos onde você quiser. Use o Contact List!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Funcionalidades
 
-* Ruby version
+Cadastro de usuários
+Recuperação de senha via email
+Login de Usuário
+Gerenciamento de contatos pessoais
+Customização do perfil
 
-* System dependencies
+Clone em sua máquina
+$ git clone git@github.com:cristhianojr/contact_list_rails.git
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
