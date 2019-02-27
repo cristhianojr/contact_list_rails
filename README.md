@@ -5,7 +5,6 @@ Gerencie sua agenda de contatos onde você quiser. Use o Contact List!
 # Funcionalidades
 
 Cadastro de usuários<br />
-Recuperação de senha via email<br />
 Login de Usuário<br />
 Gerenciamento de contatos pessoais<br />
 Customização do perfil<br />
